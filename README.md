@@ -1,6 +1,5 @@
 - đ hiểu làm gì lắm
-- nma according to preprosessing steps on google thì mình phải 
-- chuyển qua array rồi sclace rồi nomalize image
+- nma according to preprosessing steps on google thì mình phải chuyển qua array rồi sclace rồi nomalize image
 - (array - mean) / std
 -  e lấyesize ảnh là 256x256
 - xong mình split train vs val (e nghĩ là dùng 60-20-20 ngon hơn 80-10-10)
