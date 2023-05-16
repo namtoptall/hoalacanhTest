@@ -17,3 +17,4 @@
 and it never run again since I transfer the format into png 
 no bao loi file format 
 - chac e kiem cach chay tren venv
+- ah every .py files are test files 
