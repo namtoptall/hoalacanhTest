@@ -8,3 +8,11 @@
 - rồi build 
 - em làm qua qua xong build thử 
 - vẫn đang học tiep hihi 
+## update 16/05
+- kfold
+- grid search 
+- hyper param algorithm 
+- another model
+- however, I crashed the dataset this noon, I download it again 
+and it never run again since I transfer the format into png 
+no bao loi file format 
