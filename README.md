@@ -16,3 +16,4 @@
 - however, I crashed the dataset this noon, I download it again 
 and it never run again since I transfer the format into png 
 no bao loi file format 
+- chac e kiem cach chay tren venv
